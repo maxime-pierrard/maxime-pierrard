@@ -1,4 +1,4 @@
-# Maxime Pierrard
+ # Maxime Pierrard
 
 Élève ingénieur en Data Science & IA à l'ESIEE Paris (diplôme 2028).
 Je m'intéresse à la data appliquée à la banque, en particulier au risque de crédit.
@@ -27,3 +27,5 @@ Python (pandas, NumPy) · SQL · Dash · TypeScript · React · Next.js · C · 
 - Semestre Erasmus+ à l'University of Cyprus, cours en anglais (sept.-déc. 2025)
 
 Français natif · Anglais B2 · Région parisienne
+
+[LinkedIn](https://www.linkedin.com/in/maxime-pierrard) · maxime.pierrard@edu.esiee.fr
