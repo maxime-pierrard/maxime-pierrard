@@ -12,10 +12,10 @@ Je cherche un stage de 3 à 4 mois à partir du 10 mai 2027.
   Ma part : lead front-end (React, Next.js, TypeScript), dont l'interface de chat et le
   journal d'audit AI Act développé avec un coéquipier, intégration avec le back-end et SQL,
   backtesting avec VectorBT, déploiement sur Vercel et Railway.
-- **Défaillances d'entreprises en France** (en binôme, en cours, rendu nov. 2026) :
-  analyse du risque de défaillance par profil d'entreprise entre 2019 et 2025, à partir
-  des jugements du BODACC croisés avec la base Sirene de l'INSEE et des ratios financiers.
-  Python, pandas, Dash. Dépôt public après le rendu.
+- **[Défaillances d'entreprises en France](https://github.com/Malouyanis/defaillances-entreprises)** (en binôme, en cours, rendu nov. 2026) :
+  dashboard Dash sur le risque de défaillance par profil d'entreprise entre 2019 et 2025, à partir
+  des jugements du BODACC croisés avec la base Sirene de l'INSEE et les ratios financiers BCE/INPI.
+  Python, pandas, Dash.
 
 ## Compétences
 
