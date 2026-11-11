@@ -2,7 +2,7 @@
 
 Élève ingénieur en Data Science & IA à l'ESIEE Paris (diplôme 2028).
 Je m'intéresse à la data appliquée à la banque, en particulier au risque de crédit.
-Je cherche un stage de 3 à 4 mois à partir du 10 mai 2027.
+Je cherche un stage à partir du 10 mai 2027.
 
 ## Projets
 
