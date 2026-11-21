@@ -13,6 +13,7 @@ Je cherche un stage à partir du 10 mai 2027.
   journal d'audit AI Act développé avec un coéquipier, intégration avec le back-end et SQL,
   backtesting avec VectorBT, déploiement sur Vercel et Railway.
 - **[Défaillances d'entreprises en France](https://github.com/Malouyanis/defaillances-entreprises)** (en binôme, oct.-nov. 2026, responsable du volet risque de crédit) : analyse de 272 219 défaillances d'entreprises entre 2019 et 2025, à partir des jugements du BODACC croisés avec la base Sirene de l'INSEE et les ratios financiers BCE/INPI. Modèle de probabilité de défaut (régression logistique, AUC de 0,755 sur les années de test) avec une notation de A à E, et dashboard Dash de 6 pages. Python, pandas, scikit-learn, SQLite, Dash.
+- [**NEXUS**](https://github.com/maxime-pierrard/nexus-vitrine) (projet personnel, nov. 2026) : appli web installable sur iPhone que j'utilise chaque jour pour organiser ma vie : agenda, tâches et priorités, habitudes, journal du soir, journal de trading et écran d'analyse de ma productivité à partir de mes propres données. J'ai écrit le cahier des charges, découpé le projet en phases et testé chaque étape, le code a été écrit avec Claude. Next.js, TypeScript, Supabase (PostgreSQL), Vercel. [Démo en ligne](https://nexus-maxime-demo.vercel.app).
 
 ## Compétences
 
